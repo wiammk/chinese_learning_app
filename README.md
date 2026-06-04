@@ -167,13 +167,6 @@ L'application est livrée avec :
 - **3 quiz** prêts à passer
 - **Progression pré-remplie** pour les utilisateurs sara@ et khalil@
 
-## Design
-
-- Palette rouge chinois traditionnel (#c0392b) + jaune doré (#f1c40f) sur fond crème
-- Police principale **Inter** + **Noto Sans SC** pour les caractères chinois
-- Cartes arrondies, ombres douces, transitions discrètes
-- Responsive desktop + mobile
-- Bascule automatique RTL pour l'arabe
 
 ## Étapes par étape (résumé)
 
